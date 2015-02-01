@@ -1,6 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 ---
 
-A post with some words
+{% include JB/setup %}
+
+A post with some words for testing
