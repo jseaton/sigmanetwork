@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 ---
 
-A post with some words
+A post with some words for testing
